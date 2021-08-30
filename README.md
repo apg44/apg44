@@ -1,6 +1,6 @@
 # <p align=center> :wave: Hello, my name is **Antonio Puerta Gorjón** :wave:
 
-## I am a Digital Transformation Consultant very interetesd in and passionate about:
+## I am a Digital Transformation Consultant very interested in and passionate about:
 ### :chart_with_upwards_trend: Machine Learning
 ### :brain: AI
 ### :dart:Data Science
